@@ -1,0 +1,6 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "led-L") (type "KiCad") (uri "${KIPRJMOD}/Biblioteca de Huellas de este Proyecto/led-L.pretty") (options "") (descr ""))
+	(lib (name "usbEmbedded") (type "KiCad") (uri "${KIPRJMOD}/Biblioteca de Huellas de este Proyecto/usbEmbedded.pretty") (options "") (descr ""))
+	(lib (name "USB-PCB") (type "KiCad") (uri "${KIPRJMOD}/Biblioteca de Huellas de este Proyecto/USB-PCB.pretty") (options "") (descr ""))
+)

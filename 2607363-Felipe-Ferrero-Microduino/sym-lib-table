@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "symbolusb_a")(type "Legacy")(uri "C:/Users/Felipe/Documents/Archivos para UCC/uDuino Mati/uDuino Mati/symbolusb_a.lib")(options "")(descr ""))
+  (lib (name "USB_A_UCC")(type "KiCad")(uri "${KIPRJMOD}/USB_A_UCC.kicad_sym")(options "")(descr ""))
+  (lib (name "Usb_A_Ucc")(type "KiCad")(uri "${KIPRJMOD}/Usb_A_Ucc.kicad_sym")(options "")(descr ""))
+)
